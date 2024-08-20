@@ -1,0 +1,44 @@
+/* css configuration */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* css variables for colors */
+:root{
+    --main_color: #fff;
+    --page_color: #f7f7fb;
+    --input_color: #f0f2f6;
+    --line_color: #f0f2f6;
+    --primary_bg: #66717f;
+    --single_color: rgba(109, 40, 217, 1);
+    --secondary_bg: #18191A;
+    --hover_color: #202020;
+    --blur: rgba(32, 32, 32, 0.438);
+    --text-color: #333;
+    --primary-color: #1fa0ef;
+    --secondary-color: #848f95;
+    --title-color: #66717f;
+    --black: #29313d;
+    --white: #fff;
+    --green: #21d997;
+    --blue: #5093f3;
+    --red: #e54953;
+    --purple-100: #f3e8ff;
+    --yeollow: #d9a94a;
+    --pink-100: #fce7f3;
+    --cayan-100: #cffafe;
+}
+
+.bgPost {
+    height: 350px !important;
+    width: 100%;
+    text-align: center;
+}
+
+.bgPost textarea {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 45px;
+}
+

@@ -1,0 +1,7 @@
+.activity{
+    transition: .4s all linear;
+}
+
+.activity:hover .active{
+    display: inline-block;
+}

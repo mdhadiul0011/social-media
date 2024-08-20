@@ -1,0 +1,44 @@
+.react-input-emoji--container{
+    position: absolute !important;
+    top: -100px !important;
+    left: -220px !important;
+    border: none !important;
+    /* width: 1000px !important; */
+    background: #000;
+    max-width: 100% !important;
+    flex: none !important;
+}
+
+.react-input-emoji--container {
+    margin-left: 230px !important;
+    width: 100%;
+    background: transparent !important;
+}
+
+.react-input-emoji--button {
+    position: absolute !important;
+    top: 50px !important;
+    right: -20px !important;
+}
+
+/*  {
+    width: 550px !important;
+    color: white !important;
+    padding: 0 !important;
+} */
+
+.react-input-emoji--input {
+    display: none !important;
+}
+
+.react-emoji {
+    width: 550px !important;
+    position: relative !important;
+    top: 100px;
+}
+
+
+.react-emoji-picker--container {
+    margin-top: 30px;
+    margin-left: 200px;
+}
